@@ -18,7 +18,10 @@
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
                 <!-- เพิ่ม li tag -->
-				<li><a href="more.php">สอบถามปัญหาเพิ่มเติม</li>
+				<li><a href="gitdev.php">Git.Dev</li>
+
+                <!-- เพิ่ม li tag ใน VSCode -->
+				<li><a href="vscode.php">VSCode</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
